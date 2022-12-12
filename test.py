@@ -1,2 +1,0 @@
-a="ppp"
-print(a)
