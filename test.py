@@ -1,0 +1,2 @@
+a="ppp"
+print(a)
